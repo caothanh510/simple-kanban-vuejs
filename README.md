@@ -1,2 +1,11 @@
-# simple-kanban-vuejs
-Simple Kanban Board With VueJs 2 
+# Simple Kanban Vuejs
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
